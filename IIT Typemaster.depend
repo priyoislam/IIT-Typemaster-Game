@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1537936454 source:c:\users\lenovo\desktop\iit typemaster\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
+1537769622 source:c:\users\lenovo\desktop\iit typemaster\project.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+
